@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap');
+
+body{
+  background-color: #060622;
+  color: #fff;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin: 0px;
+}
+
+.hadak{
+  background-image: linear-gradient(120deg, #0B1141, #1F3FAC);
+  text-align: center;
+  box-shadow: 0px 4px 0px #FFE100;
+  border-radius: 0px 0px 10px 10px;  
+}
+.ghir{
+  text-align: center;
+  
+} 
+.a4{
+  background-image: linear-gradient(120deg, #FACC16, #F6A50D);
+  padding: 15px 50px;
+  line-height: 90px;
+  color: #fff;
+  border-radius: 30px;
+  text-decoration: none;
+  
+}
+h2, p{
+  margin-left:20px ;
+  margin-right: 20px;
+}
+p{
+  color: #D0D4DD;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  
+}
+
+.hdkdld{
+  text-align: center;
+  margin-top: 20px;
+  
+}
+.hdkdld{
+  border-radius: 10px;
+}
+.ajyftft3{
+ 
+  background-image: linear-gradient(12deg, #d1ff04, #ce17b5 , #e70909);
+  color: #D0D4DD ;
+  padding: 5px 10px;
+  line-height: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.ahfgdr2{
+    background-image: linear-gradient(12deg, #10bdae, #17cebb , #0974e7);
+    color: #D0D4DD ;
+    padding: 5px 10px;
+    line-height: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.adyrdy1{
+    background-image: linear-gradient(12deg, #188f0e, #0d6914 , #29f500);
+    color: #D0D4DD ;
+    padding: 5px 10px;
+    line-height: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
