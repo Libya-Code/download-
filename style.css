@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap');
-
-body{
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap");
+@import url("https://cdn-uicons.flaticon.com/3.0.0/uicons-brands/css/uicons-brands.css");
+body {
   background-color: #060622;
   color: #fff;
   font-family: "Noto Kufi Arabic", sans-serif;
@@ -9,67 +9,63 @@ body{
   margin: 0px;
 }
 
-.hadak{
-  background-image: linear-gradient(120deg, #0B1141, #1F3FAC);
+.hadak {
+  background-image: linear-gradient(120deg, #0b1141, #1f3fac);
   text-align: center;
-  box-shadow: 0px 4px 0px #FFE100;
-  border-radius: 0px 0px 10px 10px;  
+  box-shadow: 0px 4px 0px #ffe100;
+  border-radius: 0px 0px 10px 10px;
 }
-.ghir{
+.ghir {
   text-align: center;
-  
-} 
-.a4{
-  background-image: linear-gradient(120deg, #FACC16, #F6A50D);
+}
+.a4 {
+  background-image: linear-gradient(120deg, #facc16, #f6a50d);
   padding: 15px 50px;
   line-height: 90px;
   color: #fff;
   border-radius: 30px;
   text-decoration: none;
-  
 }
-h2, p{
-  margin-left:20px ;
+h2,
+p {
+  margin-left: 20px;
   margin-right: 20px;
 }
-p{
-  color: #D0D4DD;
+p {
+  color: #d0d4dd;
   margin-bottom: 0px;
+  margin-top: 0;
   padding-bottom: 0px;
-  
 }
 
-.hdkdld{
+.hdkdld {
   text-align: center;
   margin-top: 20px;
-  
 }
-.hdkdld{
+.hdkdld {
   border-radius: 10px;
 }
-.ajyftft3{
- 
-  background-image: linear-gradient(12deg, #d1ff04, #ce17b5 , #e70909);
-  color: #D0D4DD ;
-  padding: 5px 10px;
-  line-height: 10px;
-  border-radius: 10px;
+.ajyftft3 {
+  color: #d0d4dd;
+  margin: 10px;
   text-decoration: none;
 }
-.ahfgdr2{
-    background-image: linear-gradient(12deg, #10bdae, #17cebb , #0974e7);
-    color: #D0D4DD ;
-    padding: 5px 10px;
-    line-height: 10px;
-    border-radius: 10px;
-    text-decoration: none;
+.ahfgdr2 {
+  color: #d0d4dd;
+  margin: 10px;
+  text-decoration: none;
 }
-.adyrdy1{
-    background-image: linear-gradient(12deg, #188f0e, #0d6914 , #29f500);
-    color: #D0D4DD ;
-    padding: 5px 10px;
-    line-height: 10px;
-    border-radius: 10px;
-    text-decoration: none;
-
+.adyrdy1 {
+  color: #d0d4dd;
+  margin: 10px;
+  text-decoration: none;
+}
+.fi fi-brands-whatsapp,
+fi fi-brands-telegram,
+fi fi-brands-instagram {
+  
+  width: 10px;
+}
+h3{
+  margin-bottom: 0;
 }
