@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap");
+@import url("https://cdn-uicons.flaticon.com/3.0.0/uicons-brands/css/uicons-brands.css");
+@import url('https://cdn-uicons.flaticon.com/3.0.0/uicons-bold-rounded/css/uicons-bold-rounded.css');
+
+body {
+  background-color: #060622;
+  color: #fff;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin: 0;
+}
+/* ديف الرئسيه */
+.avlknl {
+  direction: rtl;
+  text-align: center;
+  background-image: linear-gradient(120deg, #0b1141, #153ec5);
+  border-radius: 0 0 10px 10px;
+  box-shadow: 3px 3px rgb(229, 245, 2);
+}
+h1{
+  margin: 0;
+  display: inline;
+}
+.arrow{
+  font-size: 30px;
+  position: absolute;
+  left: 30px;
+  top: 8px;
+  color: #fff;
+  text-decoration: none;
+}
+.skmmlkm {
+  text-align: center;
+  background-image: linear-gradient(
+    120deg,
+    rgba(0, 100, 250, 0.24),
+    rgba(0, 110, 255, 0.158)
+  );
+  margin-top: 100px;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 30px;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgb(0, 225, 255);
+}
+.djhkkik {
+  color: #fff;
+  text-decoration: none;
+  background-image: linear-gradient(160deg, rgb(229, 255, 0), rgb(255, 174, 0));
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+  line-height: 80px;
+}
+.hdkdld{
+  text-align: center;
+
+}
+
+p{
+  margin: 0 ;
+}
+.adyrdy1{
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+.ajyftft3{
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+.ahfgdr2{
+  color: #fff;
+  text-decoration: none;
+  margin: 4px;
+  font-size: 20px;
+}
+/* صفحة الاسئله الشائعه */
+.oolipi{
+  margin: 40px;
+  padding: 15px;
+  border-radius: 10px ;
+  text-align: right;
+  direction: rtl;
+  background-image: linear-gradient(120deg, #102766, #153ec5) ;
+}
+.bhhkkh{
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+}
+li{
+  background-color: rgba(255, 255, 255, 0.26);
+  padding: 15px;
+  border-bottom: 5px solid  ;
+  list-style-position: inside;
+  border-radius: 10px;
+}
+/* الاجوبه */
+.video-libya-code{
+  background-image: linear-gradient(120deg, #102766, #153ec5) ;
+  border-radius: 10px;
+  text-align: center;
+  margin: 30px;
+  padding: 10px;
+  direction: rtl;
+}
+.kbhkhbj{
+  background-color: #ffffff34;
+  padding: 0 10px 10px 0px; 
+  border-radius: 10px;
+  text-align: right;
+}
+.h4{
+  margin-bottom: 0;
+}
+.tfutfu{
+  color: #fff;
+  text-decoration: none;
+  background-color: rgb(255, 208, 0);
+  padding: 5px;
+  border-radius: 10px;
+}
+
+/* .spkpkm{
+  height: 200px;
+  width: 200px;
+  background-color: black;
+}
+.spkpkm:hover{
+  background-color: aqua;
+}
+.spkpkm:active{
+  background-color: blue;
+} */
